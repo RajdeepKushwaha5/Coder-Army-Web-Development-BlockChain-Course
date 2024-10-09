@@ -11,13 +11,7 @@ Gain in-demand skills and become a sought-after developer.
  
 
 # No Prerequisite Required
-Course Start Date: 16 sep 2024
-Class Timing: 9-10 pm (Mon to Fri) LIVE
-Instructor: Rohit Negi
-Doubt Support: Discord Group
-Recording: It will be available after the class
-Industry Grade Projects
-
+# Basics of Computer Networks are not included in this repository
 
 # Course Content
 
