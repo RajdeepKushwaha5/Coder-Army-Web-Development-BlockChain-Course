@@ -1,0 +1,57 @@
+<!--Employee Details Form-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Employee Details Form</title>
+</head>
+<body>
+  <h1>Employee Details Form</h1>
+  <br><br>
+  <label for="name">Full Name :</label>
+  <input type="text" id="name" name="fname" value="" required placeholder="Enter your full name">
+  <br><br>
+  <label for="email">E-mail:</label>
+  <input required type="email" id="email" name="Email" value="" placeholder="Enter your email address">
+
+  <br><br>
+
+  <label for="number">Phone Number:</label>
+  <input type="tel" id="number" name="phone number" value="" required placeholder="Enter your phone number">
+
+  <br><br>
+
+  <label>Gender:</label>
+  <input type="radio" id="male" name="gender" value="Male" required >
+  <label for="male">Male</label>
+  <input type="radio" id="female" name="gender" value="female" required >
+  <label for="female">Female</label>
+  <input type="radio" id="other" name="gender" value="other" required >
+  <!--HERE name="" AND value="" PLAY AN IMPORTANT ROLE-->
+  <label for="other">Other</label>
+
+  <br><br>
+  
+  <label for="Job title">Job Title :</label>
+  <input type="text" id="Job title" name="job" value="" required placeholder="Enter your job title ">
+
+  <br><br>
+  
+  <label for="Dep" placeholder="Select your Department">Department :</label>
+  <select name="Department" id="Dep">
+    <option value="" disabled selected>Select your department</option>
+    <option value="CSE">CSE</option>
+    <option value="IT">IT</option>
+    <option value="ECE">ECE</option>
+    <option value="EE">EE</option>
+    <option value="CE">CE</option>
+    <option value="other">Other</option>
+  </select>
+
+<br><br>
+<button type="submit">Submit</button>
+
+
+</body>
+</html>
