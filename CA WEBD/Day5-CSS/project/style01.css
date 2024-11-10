@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+
+}
+
+.first{
+ display: inline-block;
+ height: 50vh;
+ width: 20vw;
+ background-color: #C8102E;
+}
+
+.second{
+  display: inline-block;
+  height: 50vh;
+  width: 61vw;
+  margin-left: 15vw;
+  background-color: #C8102E;
+}
+
+.third{
+  display: inline-block;
+  height: 50vh;
+  width: 20vw;
+  background-color: #C8102E;
+ }
+
+.fourth{
+  display: inline-block;
+  height: 50vh;
+  width: 61vw;
+  margin-left: 15vw;
+  background-color:  #C8102E;
+}
+ 
+
+
+.third, .fourth{
+  margin-top: 20vh;
+}
+

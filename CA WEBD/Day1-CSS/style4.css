@@ -1,0 +1,15 @@
+/* Select By Descendent */
+section p{
+  color: blue;
+}
+
+
+
+/* Select by Child */
+section > p{
+  color: blueviolet;
+}
+
+
+
+

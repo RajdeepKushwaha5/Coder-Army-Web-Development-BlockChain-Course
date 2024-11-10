@@ -1,0 +1,32 @@
+
+body{
+  background-color: bisque;
+}
+
+.card{
+  width: 30vw;
+
+  background-color: antiquewhite;
+  border: 5px green solid;
+  padding: 10px;
+  margin: 20px 20px 20px 35px;
+
+}
+
+h2{
+  color: greenyellow;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+.card:hover {
+  color: brown;
+ 
+}

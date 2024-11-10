@@ -1,0 +1,16 @@
+/* multiple elements ko ek saath select krna */
+
+h1,#third{
+  color: aquamarine;
+  background-color: black;
+}
+
+
+/* Group Selector  */
+
+/* Select By attribute */
+/* attribute ke hissab se change krna hai */
+
+h2[draggable="true"]{
+  color: blueviolet;
+}

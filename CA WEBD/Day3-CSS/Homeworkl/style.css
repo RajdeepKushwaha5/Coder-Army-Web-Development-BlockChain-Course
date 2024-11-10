@@ -1,0 +1,86 @@
+/* Global Styles */
+body {
+    font-family: 'Verdana', sans-serif; /* Sets the default font */
+    color: #333; /* Sets the default text color */
+    background-color: #f0f0f0; /* Sets a light gray background color */
+}
+
+/* Header Styles */
+header {
+    background-color: #4CAF50; /* Sets a green background for the header */
+    color: white; /* Sets the text color for the header */
+}
+
+h1 {
+    font-size: 3em; /* Sets the font size for h1 */
+    font-weight: bold; /* Makes the font bold */
+}
+
+h2 {
+    font-size: 1.5em; /* Sets the font size for h2 */
+    color: #FFD700; /* Sets a gold color for h2 */
+}
+
+/* Article Styles */
+article {
+    background-color: white; /* Sets a white background for articles */
+}
+
+.css-article h3 {
+    font-size: 2em; /* Sets the font size for h3 in CSS article */
+    color: #007BFF; /* Sets a blue color for h3 */
+}
+
+.css-article p {
+    color: #555; /* Sets a darker gray color for paragraphs in CSS article */
+}
+
+.js-article h3 {
+    font-size: 2em; /* Sets the font size for h3 in JavaScript article */
+    color: #FF4500; /* Sets an orange red color for h3 */
+}
+
+.js-article p {
+    color: #333; /* Sets a darker gray color for paragraphs in JavaScript article */
+}
+
+.responsive-article h3 {
+    font-size: 2em; /* Sets the font size for h3 in Responsive article */
+    color: #8A2BE2; /* Sets a blue violet color for h3 */
+}
+
+.responsive-article p {
+    color: #444; /* Sets a slightly lighter gray for paragraphs in Responsive article */
+}
+
+/* List Styles */
+h4 {
+    color: #FF69B4; /* Sets a hot pink color for h4 headings */
+    font-size: 1.5em; /* Sets the font size for h4 */
+}
+
+/* Table Styles */
+table {
+    width: 100%; /* Makes the table full width */
+    background-color: #f9f9f9; /* Sets a light background for the table */
+}
+
+th, td {
+    text-align: left; /* Aligns text to the left in table cells */
+}
+
+th {
+    background-color: #007BFF; /* Sets a blue background for table header */
+    color: white; /* Sets text color for table header */
+}
+
+td {
+    color: #333; /* Sets a darker color for table cells */
+}
+
+/* Footer Styles */
+footer {
+    color: #333; /* Sets the text color for the footer */
+    background-color: #ccc; /* Sets a light gray background color for footer */
+    font-weight: bold; /* Makes footer text bold */
+}

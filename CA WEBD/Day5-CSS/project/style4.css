@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0; /* Remove padding to prevent unwanted spacing */
+  box-sizing: border-box; /* Ensure the width includes padding/borders */
+}
+
+body {
+  display: flex; /* Using flex to ensure full-width layout and no gaps */
+  height: 100vh; /* Make sure the body takes up full viewport height */
+}
+
+.first, .second, .third {
+  height: 100vh; /* Full height for each block */
+  width: 33.33vw; /* Use 33.33vw for each block to ensure 3 blocks fit exactly */
+}
+
+.first {
+  background-color: #009A44;
+}
+
+.second {
+  background-color: #FFFFFF;
+}
+
+.third {
+  background-color: #FF8200;
+}

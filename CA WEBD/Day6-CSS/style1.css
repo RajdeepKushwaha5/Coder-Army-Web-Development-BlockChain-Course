@@ -1,0 +1,64 @@
+.container{
+  background-color: aqua;
+  margin-left: 200px;
+  margin-top: 150px;
+height: 500px;
+  position: relative;
+
+}
+
+.box{
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  background-color: blueviolet;
+}
+
+.box1{
+  background-color: red;
+}
+
+.box2{
+  background-color: brown;
+  /* position: relative;
+  top: 20px;
+  right: 30px; */
+
+  /* position: absolute;
+  top: 20px;
+  left: 40px; */
+ 
+  /* position: fixed;
+  top: 30px; */
+
+  position: sticky;
+  top: 80px;
+
+
+}
+
+
+/* top bottom left right */
+/* static */
+/* relative */
+/* absolute */
+/* fixed */
+/* sticky */
+
+
+.box3{
+  background-color:darkmagenta;
+
+}
+
+.box4{
+  background-color: chocolate;
+}
+
+
+.newcontainer{
+  height: 4000px;
+  background-color: black;
+
+}
+

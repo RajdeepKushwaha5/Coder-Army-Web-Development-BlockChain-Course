@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #002F6C;
+
+}
+
+.first{
+ display: inline-block;
+ height: 50vh;
+ width: 20vw;
+ background-color: white;
+}
+
+.second{
+  display: inline-block;
+  height: 50vh;
+  width: 61vw;
+  margin-left: 15vw;
+  background-color: white;
+}
+
+.third{
+  display: inline-block;
+  height: 50vh;
+  width: 20vw;
+  background-color: white;
+ }
+
+.fourth{
+  display: inline-block;
+  height: 50vh;
+  width: 61vw;
+  margin-left: 15vw;
+  background-color: white;
+}
+ 
+
+
+.third, .fourth{
+  margin-top: 20vh;
+}
+

@@ -1,0 +1,24 @@
+.first{
+  /*display: inline;*/
+  background-color: blue;
+  height: 200px;
+  width: 150px;
+  margin: 50px;
+}
+
+.second{
+ /*display: inline;*/
+  background-color: aqua;
+  height: 250px;
+  width: 250px;
+  margin: 50px;
+}
+
+span{
+  /* display: block; */
+  display: inline-block;
+  background-color: brown;
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}

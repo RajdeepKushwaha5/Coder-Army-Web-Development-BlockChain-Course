@@ -1,0 +1,31 @@
+h1{
+  border: 10px green solid;
+  overflow: auto;
+  padding: 10px 25px 40px 60px;
+  border: 1px 25px 40px 60px gray ;
+  margin: 10px 20px 40px 80px;
+
+
+}
+
+h2{
+  border: 10px black solid;
+  padding: 10px 25px 40px 60px;
+  border: 1px 25px 40px 60px  ;
+  margin: 10px 20px 40px 80px;
+  box-sizing: border-box;
+  
+}
+
+
+.name{
+  
+    border: 20px black solid;
+    padding: 100px 25px 40px 60px;
+    border: 100px 250px 400px 600px  ;
+    margin: 100px 20px 400px 80p0x;
+    box-sizing: border-content;
+
+
+}
+

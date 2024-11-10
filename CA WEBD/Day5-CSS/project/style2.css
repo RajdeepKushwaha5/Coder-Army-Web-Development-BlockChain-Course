@@ -1,0 +1,11 @@
+
+
+.circle{
+  background-color: red;
+  height: 60vh;
+  width: 60vw;
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 20vh;
+ 
+}

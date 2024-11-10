@@ -1,0 +1,17 @@
+
+body{
+  background-color: blueviolet;
+  background-size: cover;
+  font-family:cursive; 
+  /* aakhri wala papa hota h font family m ,
+   vo bhi na chala toh browser ka default */
+  font-size: 20px;  
+  /* yeh units m size de skte h ----> 2 em , 3em , 2cm , 10px , 20 px */
+
+  
+}
+
+h1{
+color: bisque;
+
+}

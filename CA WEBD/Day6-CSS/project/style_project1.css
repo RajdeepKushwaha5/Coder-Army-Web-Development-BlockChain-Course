@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+}
+
+h1{
+  background-color:forestgreen;
+  position: fixed;
+  /* width: 100%; */
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  
+}
+
+main{
+  padding-top: 60px;
+  /* margin-top: 60px; */
+
+}

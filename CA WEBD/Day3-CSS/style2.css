@@ -1,0 +1,26 @@
+#first_id{
+  background-color: blueviolet;
+}
+
+
+h1[draggable="true"]{
+  background-color: green;
+}
+
+
+.first_class{
+  background-color: aqua;
+}
+
+
+body > h1{
+  background-color: crimson;
+}
+
+
+/* element */
+h1{
+  background-color: bisque;
+  color: blue;
+  background-color: brown;
+}

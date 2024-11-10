@@ -1,0 +1,23 @@
+
+
+/* xvw =x% of viewport 
+
+h1{
+  font-size: 10vw;
+} 
+  
+*/
+
+
+/* X vh = X % of view height */
+
+h1{
+  font-size: 10vh;
+  text-transform: uppercase;
+}
+
+
+p{
+  line-height: 10px;
+  letter-spacing: 3;
+}
